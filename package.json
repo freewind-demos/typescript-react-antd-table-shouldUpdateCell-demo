@@ -3,22 +3,22 @@
     "demo": "webpack-dev-server --open"
   },
   "dependencies": {
-    "react": "16.9.0",
-    "react-dom": "16.9.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "12.7.2",
-    "@types/react": "16.9.2",
-    "@types/react-dom": "16.9.0",
-    "antd": "4.1.0",
-    "css-loader": "3.4.2",
-    "html-webpack-plugin": "3.2.0",
-    "source-map-loader": "0.2.4",
-    "style-loader": "1.1.3",
-    "ts-loader": "6.0.4",
-    "typescript": "3.6.2",
-    "webpack": "4.39.3",
-    "webpack-cli": "3.3.7",
-    "webpack-dev-server": "3.8.0"
+    "@types/node": "20.6.5",
+    "@types/react": "18.2.22",
+    "@types/react-dom": "18.2.7",
+    "antd": "5.9.3",
+    "css-loader": "6.8.1",
+    "html-webpack-plugin": "5.5.3",
+    "source-map-loader": "4.0.1",
+    "style-loader": "3.3.3",
+    "ts-loader": "9.4.4",
+    "typescript": "5.2.2",
+    "webpack": "5.88.2",
+    "webpack-cli": "5.1.4",
+    "webpack-dev-server": "4.15.1"
   }
 }
